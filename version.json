@@ -1,20 +1,15 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.0",
   "files": [
     {
-      "url": "https://your-update-server.com/updates/win-x64/your-app-1.1.0.exe",
-      "sha512": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "size": 12345678
+      "url": "https://sdk-haiwai.oss-ap-southeast-1.aliyuncs.com/testlabourClient/windows/1.0.0.exe",
+      "sha512": "v6E1q1bveOmmbwBGRbBFTmGTNYN9Fnw9qPe6bvtpbky1NPgfADtFFCWKAm5xKEfW+YTGqH7t+zkUKOcwJOrFvA==",
+      "size": 86252897
     },
     {
-      "url": "https://your-update-server.com/updates/mac-x64/your-app-1.1.0.dmg",
-      "sha512": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "size": 23456789
-    },
-    {
-      "url": "https://your-update-server.com/updates/linux-x64/your-app-1.1.0.AppImage",
-      "sha512": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "size": 34567890
+      "url": "https://sdk-haiwai.oss-ap-southeast-1.aliyuncs.com/testlabourClient/mac/1.0.0.dmg",
+      "sha512": "4ZtstSQHd456+RmeetG2VyobHjTexCUg4g7iPMkvSLRusQjSHDTZbDEUKXljO53m5RBXz0vH+IaRbvlbECDIdQ==",
+      "size": 114437460
     }
   ]
 }
